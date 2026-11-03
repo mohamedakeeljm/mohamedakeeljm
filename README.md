@@ -5,13 +5,14 @@
 
 <!-- TYPING SVG ANIMATION -->
 <a href="https://github.com/mohamedakeeljm">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=600&height=50&lines=👋+Hello%2C+World!+Welcome+to+my+Profile;🚀+Passionate+Software+Engineer;💻+Building+Scalable+Web+%26+Mobile+Apps;✨+Turning+Ideas+into+Reality;☕+Fueled+by+Coffee+%26+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full+Stack+Developer;Passionate+Software+Engineer;Building+Scalable+Web+Apps;Turning+Ideas+Into+Reality;Clean+Code+Advocate" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedakeeljm&label=Profile%20Views&color=00f5d4&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Things-7928CA?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-0070F3?style=flat-square" alt="Open to Collaboration" />
+  <img src="https://img.shields.io/github/followers/mohamedakeeljm?style=flat-square&logo=github&color=7928CA&logoColor=white&label=Followers" alt="Followers" />
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -55,14 +56,6 @@ ask_me_about: JavaScript, TypeScript, React, Node.js, Python, Databases, Web Sec
 reach_me_at: mohamedakeeljm@gmail.com
 fun_fact: "I turn caffeine and complex requirements into clean, production-ready software."
 ```
-
-<br/>
-
-<!-- GITHUB TROPHIES -->
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedakeeljm&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 <br/>
 
@@ -111,37 +104,14 @@ fun_fact: "I turn caffeine and complex requirements into clean, production-ready
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohamedakeeljm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7928CA&text_color=c9d1d9&count_private=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=mohamedakeeljm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7928CA&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedakeeljm&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=FF0055&currStreakNum=00F5D4&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" width="100%" alt="GitHub Streak" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohamedakeeljm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <br/>
-
-  <!-- MOST USED LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedakeeljm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <h3>📈 Contribution Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedakeeljm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=7928CA&point=00F5D4&area=true&hide_title=true" width="100%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake Eater
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohamedakeeljm/mohamedakeeljm/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
 </div>
 
 <br/>
